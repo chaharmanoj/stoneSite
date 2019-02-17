@@ -1,0 +1,14 @@
+.button6{
+	color: rgba(255,255,255,1);
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	border: 1px solid rgba(255,255,255,0.5);
+	position: relative;	
+}
+.button6 a{
+	color: rgba(51,51,51,1);
+	text-decoration: none;
+	display: block;
+}

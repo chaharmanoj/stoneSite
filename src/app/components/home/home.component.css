@@ -1,0 +1,21 @@
+.parallax {
+/* The image used */
+    background-image: url("https://images.unsplash.com/photo-1494794347578-e22cd4049dad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=14800&q=80");
+
+    /* Set a specific height */
+    min-height: 1000px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.zoom{
+	overflow: hidden;
+    padding-bottom: 60%;
+	background-image: url("https://images.unsplash.com/photo-1494794347578-e22cd4049dad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1480&q=80");
+	background-size: 100% 100%;
+	background-position: top center;	
+}
